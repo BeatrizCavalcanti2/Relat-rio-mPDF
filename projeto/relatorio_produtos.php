@@ -48,9 +48,6 @@ foreach ($produtos as $produto) {
     $html .= '<td>' . $produto['preco'] . '</td>';
     $html .= '<td>' . $produto['descricao'] . '</td>';
     $html .= '</tr>';
-    
-
-
 }
 
 $html .= '</table>';
