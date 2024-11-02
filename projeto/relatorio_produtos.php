@@ -3,9 +3,6 @@
 require_once '../vendor/autoload.php';
 $mpdf = new \Mpdf\Mpdf();
 
-
-
-
 $produtos=[
     [
     'nome'=>'Caderno Universitário',
