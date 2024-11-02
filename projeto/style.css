@@ -1,0 +1,32 @@
+h1{
+    color:rgb(255, 11, 153);
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size:50px;
+}
+
+
+th{
+    background-color: rgb(176, 239, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(36, 11, 36);
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+td{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-size-adjust: initial;
+    text-align:center;
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
